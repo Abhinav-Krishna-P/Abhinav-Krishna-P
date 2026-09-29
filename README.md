@@ -1,19 +1,32 @@
-# Hi, I'm Abhinav Krishna P
+# 👋 Hi, I'm Abhinav Krishna P
 
-Software Developer building LLM-powered workflow automation and Shopify apps.
+**Software Developer building LLM-powered automation, Shopify apps & AI experiences.**
 
-## What I work on
-- AI shopping assistant for Shopify using Storefront MCP, RAG and a graph DB
-- Chrome extension that generates n8n workflows from prompts (8,000+ installs)
-- Shopify apps used by 100+ merchants
+I love turning complex ideas into **production-ready products** — from AI shopping assistants and RAG systems to developer automation tools.
 
-## Stack
-Node.js · TypeScript · Python · React · Remix · PostgreSQL · Pinecone · Azure · Docker
+### 🚀 What I Build
 
-## Featured projects
-- [N8N Copilot](link): what it does in one line
-- [Cart Easy](link): what it does in one line
-- [Aco Product Filter](link): what it does in one line
+* 🤖 **AI & LLM Applications** — RAG, MCP, agents & structured outputs
+* 🛍️ **Shopify Apps** — AI shopping, search & product discovery
+* ⚡ **Workflow Automation** — n8n, APIs, webhooks & browser automation
+* 🧪 **Testing & Infrastructure** — Playwright, K6, Docker & Azure
 
-## Contact
-LinkedIn · Email · LeetCode
+### 📊 Highlights
+
+**8,000+** N8N Copilot installs · **1,000+** active users · **4.5★** rating · **100+** Shopify merchants
+
+### 🛠️ Tech Stack
+
+`TypeScript` `JavaScript` `Python` `Node.js` `React` `Remix` `PostgreSQL` `Pinecone` `Shopify` `MCP` `n8n` `Docker` `Azure`
+
+### 🔥 Featured Projects
+
+**[N8N Copilot](link)** — Generate and inject n8n workflows using natural language.
+
+**[Cart Easy](link)** — AI shopping assistant powered by Shopify MCP, RAG & graph-based retrieval.
+
+**[Aco Product Filter](link)** — High-performance, configurable Shopify product filtering & search.
+
+### 🌐 Connect
+
+[**Portfolio**](https://portfolio.abhinavkp.codes/) · **LinkedIn** · **GitHub** · **LeetCode**

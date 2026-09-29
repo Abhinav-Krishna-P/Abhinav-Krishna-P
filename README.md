@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abhinav Krishna P
 
-<!--
-**Abhinav-Krishna-P/Abhinav-Krishna-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer building LLM-powered workflow automation and Shopify apps.
 
-Here are some ideas to get you started:
+## What I work on
+- AI shopping assistant for Shopify using Storefront MCP, RAG and a graph DB
+- Chrome extension that generates n8n workflows from prompts (8,000+ installs)
+- Shopify apps used by 100+ merchants
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Node.js · TypeScript · Python · React · Remix · PostgreSQL · Pinecone · Azure · Docker
+
+## Featured projects
+- [N8N Copilot](link): what it does in one line
+- [Cart Easy](link): what it does in one line
+- [Aco Product Filter](link): what it does in one line
+
+## Contact
+LinkedIn · Email · LeetCode
